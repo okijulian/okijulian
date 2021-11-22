@@ -17,6 +17,10 @@
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
+      <td width="25%" align="center">
+        <span>nodejs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      </td>
            <td width="25%" align="center">
         <span><b>Python 3</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">

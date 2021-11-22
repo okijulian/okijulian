@@ -25,7 +25,7 @@
         <span><b>Python 3</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-         <td width="25%" align="center">
+         <td width="35%" align="center">
         <span><b>Java</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>

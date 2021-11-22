@@ -1,6 +1,6 @@
 ### Hola bienvenidos a mi Perfil 👋
 
-<center>   <h2> Estos son los  lenguajes que voy actualmente voy practicando.</h2> </center>
+<center>   <h2> Lenguajes y Herramientas.</h2> </center>
 
 <table>
   <tbody>
